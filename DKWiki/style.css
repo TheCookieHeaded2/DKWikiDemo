@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Italiana&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Italiana&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&family=Italiana&family=Itim&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+body{
+    background-color: #98C7A5;
+}
+
+.minispace{
+    height: 15px;
+}
+header{
+    display: flex;
+    justify-content: start;
+    background-color: #78C98E;
+    border: 3px solid #5D966C;
+    margin: -10px -10px;
+    border-radius: 8;
+    align-items: end;
+    text-align: center;
+    flex-direction: row;
+}
+.intro>h1{
+    padding: 0px 0px;
+    font-family: "Italiana", sans-serif;
+    font-size: 95px;
+    color: #488459;
+    text-align: center;
+}
+.intro>nav a{
+    text-align: center;
+    font-family: "Irish Grover", system-ui;
+    font-size: 35px;
+    color: #356542;
+    text-decoration: none;
+    padding: 20% 10%;
+    justify-content: space-between;
+}
+
+.probel{
+    height: 35px;
+}
+article>figure{
+    display: block;
+}
+article{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    background-color: #84C696;
+    border: 3px solid #5D966C;
+    text-align: center;
+    border-radius: 30px 30px 20px 20px;
+}
+.fonttitles{
+    font-family: "Italiana", sans-serif;
+    color: #5DA671;
+    font-size: 60px;
+}
+.fontitim{
+    font-family: "Itim", serif;
+    color: #4A7456;
+    font-size: 35px;
+}
+article>figure a{
+    text-decoration: none;
+}
+.wildo{
+    background-color: #1CD650;
+    border: 2px solid #5D966C;
+    border-radius: 30px 30px 20px 20px;
+    color: #5D966C;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.poli{
+    background-color: #D9DC46;
+    border: 2px solid #605B2E;
+    border-radius: 30px 30px 20px 20px;
+    color: #605B2E;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.artem{
+    background-color: #8C978F;
+    border: 2px solid #4F4F4F;
+    border-radius: 30px 30px 20px 20px;
+    color: #4F4F4F;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.egor{
+    background-color: #1CCAD6;
+    border: 2px solid #21474D;
+    border-radius: 30px 30px 20px 20px;
+    color: #21474D;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.evil{
+    background-color: #FF0000;
+    border: 2px solid #320E0E;
+    border-radius: 30px 30px 20px 20px;
+    color: #320E0E;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.exe{
+    background-color: #246F39;
+    border: 2px solid #2E603C;
+    border-radius: 30px 30px 20px 20px;
+    color: #2E603C;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.inbetween{
+    height: 70px;
+}
+.san{
+    background-color: #676762;
+    border: 2px solid #42433E;
+    border-radius: 30px 30px 20px 20px;
+    color: #42433E;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.den{
+    background-color: #939474;
+    border: 2px solid #72765A;
+    border-radius: 30px 30px 20px 20px;
+    color: #72765A;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.ivan{
+    background-color: #68816F;
+    border: 2px solid #4F4F4F;
+    border-radius: 30px 30px 20px 20px;
+    color: #4F4F4F;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.georgy{
+    background-color: #D4D74E;
+    border: 2px solid #646D2C;
+    border-radius: 30px 30px 20px 20px;
+    color: #646D2C;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.gregory{
+    background-color: #4190BD;
+    border: 2px solid #384C63;
+    border-radius: 30px 30px 20px 20px;
+    color: #384C63;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.jr{
+    background-color: #5AE782;
+    border: 2px solid #BF50B4;
+    border-radius: 30px 30px 20px 20px;
+    color: #BF50B4;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.diana{
+    background-color: #C5C5C5;
+    border: 2px solid #565E66;
+    border-radius: 30px 30px 20px 20px;
+    color: #565E66;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.cookie{
+    background-color: #684C2C;
+    border: 2px solid #73522C;
+    border-radius: 30px 30px 20px 20px;
+    color: #73522C;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.au{
+    background-color: #356542;
+    border: 2px solid #183620;
+    border-radius: 30px 30px 20px 20px;
+    color: #183620;
+    font-family: "Itim", serif;
+    font-size: 20px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.erc{
+    background-color: #93A598;
+    border: 2px solid #425146;
+    border-radius: 30px 30px 20px 20px;
+    color: #425146;
+    font-family: "Itim", serif;
+    font-size: 20px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+
+.mains{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.vills{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.second{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.anothers{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.cottage{
+    background-color: #4190BD;
+    border: 2px solid #384C63;
+    border-radius: 30px 30px 20px 20px;
+    color: #384C63;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
+.flat{
+    background-color: #1CCAD6;
+    border: 2px solid #21474D;
+    border-radius: 30px 30px 20px 20px;
+    color: #21474D;
+    font-family: "Itim", serif;
+    font-size: 25px;
+    width: 205px;
+    height: 227px;
+    text-align: center;
+}
